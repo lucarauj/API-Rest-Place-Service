@@ -11,6 +11,8 @@
 - Spring Data + R2DBC
 - Slugify
 
+<br>
+
 ## Práticas adotadas:
 
 - SOLID
@@ -21,6 +23,8 @@
 - Geração de slugs automática com o Slugify
 - Auditoria sobre criação e atualização da entidade
 
+<br>
+
 ## API Endpoints
 
 - POST (http://localhost:8080/places)
@@ -30,6 +34,8 @@
   "state": "New State"
 }
 ```
+
+<br>
 
 ## Dependências:
 
